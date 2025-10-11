@@ -1,4 +1,4 @@
-# Children's Bank
+# Children's Bank(Bankist)
 
 A modern, interactive **banking web application** built in **JavaScript **.  
 It simulates real-world online banking — allowing users to **log in**, **view balances**, **make transfers**, **request loans**, and **close accounts** — all with localized **currency** and **date formatting**.
