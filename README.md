@@ -118,3 +118,6 @@ Users can securely log in using their credentials (username + PIN) and perform c
 | **Modern Syntax**        | Arrow functions, optional chaining (`?.`), destructuring                     |
 
 ---
+
+![pic2](pic2.png)
+![pic1](pic1.png)
