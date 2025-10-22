@@ -5,7 +5,7 @@ It simulates real-world online banking — allowing users to **log in**, **view 
 
 ---
 
-## Overview
+## Overview:
 
 The Bankist App provides a realistic banking experience where multiple user accounts exist with their own currencies, locales, and transaction histories.  
 Users can securely log in using their credentials (username + PIN) and perform common banking operations in a fully dynamic UI.
